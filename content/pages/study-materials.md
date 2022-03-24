@@ -15,8 +15,8 @@ Antidepressants ([PDF]({{< baseurl >}}/resources/antidepressants))
 
 Spinal Cord Section ([PDF]({{< baseurl >}}/resources/spinalcord))
 
-Glutamate Structure (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/glutamate))
+Glutamate Structure ([PDF]({{< baseurl >}}/resources/glutamate))
 
-Neurotransmitter Release (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB]({{< baseurl >}}/resources/nt_release))
+Neurotransmitter Release ([PDF - 1.8 MB]({{< baseurl >}}/resources/nt_release))
 
 LTP and LTD ([PDF]({{< baseurl >}}/resources/sally_ltp))
